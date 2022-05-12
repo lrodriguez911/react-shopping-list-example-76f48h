@@ -16,7 +16,6 @@ function App() {
     <Item name="Ice cream" price="24" />
   </div>;
 }
-console.log(App)
 const el = <App />; 
 ReactDOM.render(
   el, 
